@@ -10,7 +10,7 @@ packages = [{include = "joberty_scraper"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.0.2"
-requests = "^2.31.0"
+requests = "^2.32.4"
 selenium = "^4.10.0"
 
 
